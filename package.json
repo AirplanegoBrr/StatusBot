@@ -1,0 +1,17 @@
+{
+  "name": "templatebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AirplaneGobrr",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord.js": "^13.6.0",
+    "gamedig": "^4.0.2",
+    "quick.db": "^7.1.3"
+  }
+}
